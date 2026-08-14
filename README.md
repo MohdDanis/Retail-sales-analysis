@@ -137,12 +137,6 @@ The project demonstrates the ability to move from:
 
 **Raw Data → Data Cleaning → Business Analysis → KPI Analysis → Dashboard → Business Insights**
 
-## 🔗 Interactive Power BI Dashboard
-
-**[View the Interactive Power BI Dashboard ]
-(https://github.com/MohdDanis/Retail-sales-analysis/blob/main/Dashboard%20Overview.PNG)
-
-Explore sales, profit, regional performance, product categories, customer segments, shipping modes, order priority, and yearly trends through the interactive dashboard.
 
 ## 👤 Author
 
