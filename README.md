@@ -140,7 +140,7 @@ The project demonstrates the ability to move from:
 ## 🔗 Interactive Power BI Dashboard
 
 **[View the Interactive Power BI Dashboard ]
-(https://github.com/MohdDanis/Retail-sales-analysis/edit/main/README.md)
+(https://github.com/MohdDanis/Retail-sales-analysis/blob/main/Dashboard%20Overview.PNG)
 
 Explore sales, profit, regional performance, product categories, customer segments, shipping modes, order priority, and yearly trends through the interactive dashboard.
 
